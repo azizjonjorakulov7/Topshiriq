@@ -1,0 +1,2 @@
+# Topshiriq
+Tizimli Dasturlash
